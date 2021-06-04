@@ -6,7 +6,19 @@ Travel Booking iOS app using SwiftUI.
 
 ## Video Preview
 
-[![Critter Clan IOS 14 App](https://img.youtube.com/vi/hzDBP5K6lsk/0.jpg)](https://www.youtube.com/watch?v=hzDBP5K6lsk "Critter Clan IOS 14 App")
+[![Nomadic IOS 14 App](https://img.youtube.com/vi/5iXROPP0_Ww/0.jpg)](https://www.youtube.com/watch?v=5iXROPP0_Ww "Nomadic IOS 14 App")
+
+# Features:
+
+- Nice UI and UX
+- Works on: iOS, iPadOS
+- Cool Animation
+- iOS launchScreen with Custom gradient Background Image
+- Reusable Components using SwiftUI
+- Work with Binding and Environmental Objects in SwiftUI
+- Swiping motion like Tinder using SwiftUI
+- Animation with Custom Transition with SwiftUi
+- Haptic Feedback and Playing sound effects in SwiftUI
 
 ## License
 
